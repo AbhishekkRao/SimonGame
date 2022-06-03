@@ -5,6 +5,7 @@ body {
 
 footer{
   color: white;
+  font-family: 'Montserrat';
 }
 
 #level-title {
@@ -12,6 +13,7 @@ footer{
   font-size: 3rem;
   margin:  5%;
   color: #FEF2BF;
+  line-height: 1.2;
 }
 
 .container {
